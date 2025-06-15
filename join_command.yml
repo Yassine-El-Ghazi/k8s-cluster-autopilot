@@ -1,0 +1,2 @@
+join: kubeadm join 10.11.3.251:6443 --token lrd4bb.tmivkihzmky7l5kw --discovery-token-ca-cert-hash
+  sha256:7a54690545d0136cd81b767c7ea40804029f64550fd939887e1de53074f6f1c8
